@@ -1,4 +1,1 @@
-transformers==4.25.1
-streamlit==1.10.0
-opencv-python==4.5.4.60
-numpy==1.23.3
+pip freeze > requirements.txt
